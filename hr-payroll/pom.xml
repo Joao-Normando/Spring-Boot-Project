@@ -38,7 +38,7 @@
 		</dependency>
         <dependency>
             <groupId>com.joaonormando</groupId>
-            <artifactId>hrpayroll</artifactId>
+            <artifactId>hr-payroll</artifactId>
             <version>0.0.1-SNAPSHOT</version>
             <scope>compile</scope>
         </dependency>
