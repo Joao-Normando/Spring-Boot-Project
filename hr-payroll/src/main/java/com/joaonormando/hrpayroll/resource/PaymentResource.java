@@ -1,4 +1,4 @@
-package com.joaonormando.hrpayroll.resources;
+package com.joaonormando.hrpayroll.resource;
 
 import com.joaonormando.hrpayroll.entities.Payment;
 import com.joaonormando.hrpayroll.services.PaymentService;
