@@ -6,8 +6,9 @@
         <option value="$PROJECT_DIR$/hr-worker/pom.xml" />
         <option value="$PROJECT_DIR$/hr-payroll/pom.xml" />
         <option value="$PROJECT_DIR$/eureka-server/pom.xml" />
-        <option value="$PROJECT_DIR$/hrgateway/pom.xml" />
         <option value="$PROJECT_DIR$/hrconfigserver/pom.xml" />
+        <option value="$PROJECT_DIR$/hrgateway/pom.xml" />
+        <option value="$PROJECT_DIR$/apigateway/pom.xml" />
       </list>
     </option>
   </component>
