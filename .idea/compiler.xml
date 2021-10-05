@@ -9,6 +9,7 @@
         <module name="hr-payroll" />
         <module name="hr-worker" />
         <module name="eureka-server" />
+        <module name="hrconfigserver" />
         <module name="hrgateway" />
       </profile>
     </annotationProcessing>
@@ -16,6 +17,7 @@
       <module name="eureka-server" target="11" />
       <module name="hr-payroll" target="11" />
       <module name="hr-worker" target="11" />
+      <module name="hrconfigserver" target="11" />
       <module name="hrgateway" target="11" />
     </bytecodeTargetLevel>
   </component>
@@ -24,6 +26,7 @@
       <module name="eureka-server" options="-parameters" />
       <module name="hr-payroll" options="-parameters" />
       <module name="hr-worker" options="-parameters" />
+      <module name="hrconfigserver" options="-parameters" />
       <module name="hrgateway" options="-parameters" />
     </option>
   </component>
